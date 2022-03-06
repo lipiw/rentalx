@@ -1,8 +1,8 @@
 ## RENTALX - Gerenciamento de vendas de carros
 
----
-
 ### *TODO LIST*
+
+---
 
 #### _Categorias_
 
