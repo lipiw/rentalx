@@ -4,5 +4,5 @@
 
 #### _Categorias_
 
-[x] - Inserir nova categoria.
-[x] - Consultar categoria.
+[x] Inserir nova categoria.
+[x] Consultar categoria.
