@@ -1,7 +1,7 @@
 ## RENTALX - Gerenciamento de vendas de carros
 
-### Chek-list
+### *TODO LIST*
 
-#### Categorias
+#### _Categorias_
 [x] - Inserir nova categoria
 [x] - Consultar categoria
